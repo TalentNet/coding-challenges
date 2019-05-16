@@ -9,7 +9,7 @@ You are free to use any PHP libraries or modules in order to complete the challe
 
 #### Bonus Points
 * Use Docker to build your solution
-* Use Kahlan for your unit tests
+* Use preferably PHPUnit, Codeception or Behat for your unit tests
 
 ### Requirements
 
